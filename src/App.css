@@ -21,7 +21,7 @@ body {
 }
 .App-header .title {
   font-size: 3.0rem;
-  padding: 3.0rem 0;
+  padding: 5.0rem 0 3.0rem;
 }
 .App-header-inner {
   display: flex;
@@ -29,6 +29,7 @@ body {
   flex-direction: row;
   align-items: center;
   padding: 2.5rem 0;
+  width: 25%;
 }
 .App-main {
   display: flex;
@@ -39,9 +40,9 @@ body {
   font-size: 2.0rem;
 }
 .App-header img {
-  margin: 0 2.5%;
+  margin: 0 5%;
   padding: 1.5%;
-  width: calc(50% - 8%);
+  width: calc(50% - 13%);
   height: 100%;
 }
 .nu-blog-logo {
@@ -53,7 +54,7 @@ body {
 .App-link {
   color: white;
 }
-
 button {
   font-size: calc(10px + 2vmin);
+  margin: 0 0 3.0rem;
 }

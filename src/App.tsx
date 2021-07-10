@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="title">Uemu Site</div>
+        <div className="title">Uemu Site by React & vite</div>
         <div className="App-header-inner">
           <img src={logo_n} className="nu-blog-logo" alt="logo" />
           <img src={logo_s} className="nu-stack-logo" alt="logo" />
